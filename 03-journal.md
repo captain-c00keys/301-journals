@@ -1,0 +1,3 @@
+# Journal 3
+
+This was a great learning experience about all the different ways to filter. Working in a pair is always a little tough because one person is going to know much more than the other person. But in this case, I didn't feel that way. We worked through some tough problems. Instead of just looking at someone's solution, I would write out what I would do first, then look at theirs to compare.
